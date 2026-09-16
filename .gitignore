@@ -1,0 +1,16 @@
+# Environments
+venv/
+.venv/
+env/
+
+# Secrets & Configuration
+.env
+
+# Python / Jupyter Notebook Caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
